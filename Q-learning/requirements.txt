@@ -1,0 +1,7 @@
+gym==0.17.3
+matplotlib
+numpy
+torch
+torchaudio
+torchvision
+tqdm
